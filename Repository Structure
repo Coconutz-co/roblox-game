@@ -1,0 +1,7 @@
+RobloxFPS-Template/
+├── .gitignore
+├── README.md
+├── FPSGameTemplate.rbxlx       <-- Your Roblox place file (XML format)
+└── Scripts/
+    ├── fpsClient.lua           <-- Client-side FPS code
+    └── fpsServer.lua           <-- Server-side FPS code
