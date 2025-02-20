@@ -19,6 +19,10 @@ This is a template for a VR-only FPS game in Roblox, designed for **Meta Quest 2
    - Quest users can test using **Air Link/Virtual Desktop** or a PC VR setup.
 
 # My @s:
-Roblox: GammerrPr011
+Roblox: 
 
-    Discord: oddsjuix_
+      GammerrPr011
+
+ discord: 
+ 
+    oddsjuix_
