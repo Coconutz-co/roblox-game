@@ -1,7 +1,3 @@
 # Ignore temporary Roblox files
 *.rbxl
-*.rbxlx
-*.rbxm
-
-# Node modules
-node_modules/
+*.rbxlx.cache
